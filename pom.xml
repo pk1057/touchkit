@@ -4,19 +4,19 @@
     <groupId>org.vaadin.touchkit</groupId>
     <artifactId>touchkit-parent</artifactId>
     <packaging>pom</packaging>
-    <version>5.0.0.beta2</version>
+    <version>5.0.3.EDAG</version>
     <name>TouchKit Parent</name>
 	
 	<modules>
 		<module>touchkit</module>
-		<module>touchkit-compatibility</module>
+		<!--module>touchkit-compatibility</module-->
 	</modules>
-    <scm>
+    <!--scm>
         <connection>scm:git:ssh://git@github.com/parttio/touchkit.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/parttio/touchkit.git</developerConnection>
         <url>https://github.com/parttio/touchkit</url>
         <tag>HEAD</tag>
-    </scm>
+    </scm-->
     <licenses>
         <license>
             <name>Apache License Version 2.0</name>
